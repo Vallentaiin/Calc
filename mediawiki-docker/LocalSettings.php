@@ -29,7 +29,7 @@ $wgSitename = "CalcConstructor2.0";
 $wgScriptPath = "";
 
 ## The protocol and server name to use in fully-qualified URLs
-$wgServer = "http://it3.asu.uust.ru:8082";
+$wgServer = "http://localhost:8082";
 
 ## The URL path to static resources (images, scripts, etc.)
 $wgResourceBasePath = $wgScriptPath;
